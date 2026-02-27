@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.1.0",
   "type": "module",
+  "description": "Moderne foto-import applikasjon for SD-kort og minnekort med automatisk oppdagelse, intelligent kopiering og full sporbarhet. Bygget med Tauri v2, Rust og React.",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",

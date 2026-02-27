@@ -7,7 +7,20 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.6-3178C6?logo=typescript)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-En automatisk foto-import app for SD-kort og minnekort, bygget med Tauri v2, Rust, React og TypeScript.
+En moderne, automatisk foto-import applikasjon for SD-kort og minnekort. SD Copy gjør det enkelt og trygt å importere bilder fra kamera eller minnekort til din datamaskin med intelligent overvåking, duplikathåndtering og full sporbarhet.
+
+Bygget med Tauri v2, Rust og React for høy ytelse, sikkerhet og en nativ brukeropplevelse på macOS og Windows.
+
+## Hva gjør SD Copy?
+
+SD Copy automatiserer den vanlige arbeidsflyten for fotografer og hobbyister:
+
+1. **Automatisk oppdagelse** - Setter du inn et SD-kort eller minnekort, oppdager appen det automatisk og skanner for bilder
+2. **Intelligent import** - Velg destinasjonsmappe, gi importen et navn (standardformat: 270226 - Import), og start kopieringen
+3. **Trygg kopiering** - Filer kopieres (ikke flyttes), med bevaring av mappestruktur og automatisk håndtering av duplikater
+4. **Full sporing** - Hvert import genererer en manifest-fil som dokumenterer alle kopierte filer med detaljer
+
+Appen støtter alle vanlige RAW- og bildeformater inkludert JPG, PNG, HEIC, RAF (Fujifilm), CR2/CR3 (Canon), NEF (Nikon), ARW (Sony), DNG og flere.
 
 ## Funksjonalitet (MVP)
 
