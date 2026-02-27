@@ -1,0 +1,8 @@
+# For development, copy any PNG file here and rename to match the required sizes:
+# - 32x32.png
+# - 128x128.png  
+# - 128x128@2x.png (256x256)
+# - icon.icns (macOS)
+# - icon.ico (Windows)
+# You can use online tools like https://www.icoconverter.com/
+# Or use ImageMagick if installed
