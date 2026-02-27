@@ -199,7 +199,9 @@ Sjekk at du har:
 
 ## Lisens
 
-MIT
+Dette prosjektet er lisensiert under MIT License - se [LICENSE](LICENSE) filen for detaljer.
+
+**TL;DR:** Du kan fritt bruke, modifisere og distribuere denne koden, også i kommersielle prosjekter.
 
 ## Fremtidige Forbedringer (utenfor MVP)
 
